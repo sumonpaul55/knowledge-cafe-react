@@ -1,0 +1,52 @@
+[
+    {
+        "id": 12345,
+        "title": "Culinary Chronicles: A Journey Through Global Flavors",
+        "cover": "https://i.ibb.co/cFQCFj8/cover-1.jpg",
+        "author": "Jane Doe",
+        "author_image": "https://i.ibb.co/rm5dPdH/authorimg-3.jpg",
+        "post_date": "September 12, 2023",
+        "reading_time": 8,
+        "hashtag": ["#Technology"]
+    },
+    {
+        "id": 67890,
+        "title": "Wanderlust Diaries: Tales from a Travel Enthusiast",
+        "cover": "https://i.ibb.co/nrWtV17/cover-2.jpg",
+        "author": "John Smith",
+        "author_image": "https://i.ibb.co/cDpRQrp/authorimg-1.jpg",
+        "post_date": "September 10, 2023",
+        "reading_time": 6,
+        "hashtag": ["#Travel", "#something"]
+    },
+    {
+        "id": 54321,
+        "title": "Culinary Chronicles: A Journey Through Global Flavors",
+        "cover": "https://i.ibb.co/kxbGyJv/cover-3.jpg",
+        "author": "Emily Wilson",
+        "author_image": "https://i.ibb.co/MZJhwrt/authorimg-2.jpg",
+        "post_date": "September 8, 2023",
+        "reading_time": 5,
+        "hashtag": ["#Foodie","#Travel", "#something"]
+    },
+    {
+        "id": 98765,
+        "title": "Mindful Musings: Finding Inner Peace in a Busy World",
+        "cover": "https://i.ibb.co/nrWtV17/cover-2.jpg",
+        "author": "Mark Johnson",
+        "author_image": "https://i.ibb.co/cDpRQrp/authorimg-1.jpg",
+        "post_date": "September 7, 2023",
+        "reading_time": 7,
+        "hashtag": ["#Fitness","#Travel", "#something"]
+    },
+    {
+        "id": 24680,
+        "title": "Culinary Chronicles: A Journey Through Global Flavors",
+        "cover": "https://i.ibb.co/kxbGyJv/cover-3.jpg",
+        "author": "Sarah Anderson",
+        "author_image": "https://i.ibb.co/rm5dPdH/authorimg-3.jpg",
+        "post_date": "September 5, 2023",
+        "reading_time": 4,
+        "hashtag": ["#Fashion","#Travel"]
+    }
+]
